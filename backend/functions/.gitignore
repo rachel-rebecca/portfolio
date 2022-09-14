@@ -10,3 +10,7 @@ pids
 
 # Node.js dependency directory
 node_modules/
+
+# Misc
+.runtimeconfig
+config.env
