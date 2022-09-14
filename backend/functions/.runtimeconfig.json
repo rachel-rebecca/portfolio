@@ -1,5 +1,0 @@
-{
-    "mongodb" : {
-        "uri": "mongodb://admin:18ZziOXqyWF6gkEj@portfolioserverless-lb.tyfaf.mongodb.net:27017/Portfolio?retryWrites=true&w=majority"
-    }
-}

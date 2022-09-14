@@ -12,5 +12,5 @@ pids
 node_modules/
 
 # Misc
-.runtimeconfig
+.runtimeconfig.json
 config.env
